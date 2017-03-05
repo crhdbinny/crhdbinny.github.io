@@ -4,6 +4,8 @@ html, body {
   margin: 0;
   width: 100%;
   background-color: #FFEE00
+  display: flex;
+  
 }
 
 div {
