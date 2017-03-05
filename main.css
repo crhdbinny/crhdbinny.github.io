@@ -4,19 +4,21 @@ html, body {
   margin: 0;
   width: 100%;
   background-color: #FFEE00
-  display: flex;
+  
   
 }
 
 div {
   padding: 3rem;
   width: 100%;
+  display: flex;
 }
 
 
 .first {
   background-color: red;
   margin: 50px;
+  font-size: 48px;
 }
 
 .container {
@@ -33,15 +35,4 @@ div {
   width: 160px;
 }
 
-h1 {
-  font-size: 48px;
-}
 
-.nav h1 {
-  padding-left: 20px;
-}
-
-video {
-  background-color: #000000;
-  border: 2px solid black;
-}
