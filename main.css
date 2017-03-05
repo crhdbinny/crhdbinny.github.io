@@ -11,6 +11,12 @@ div {
   width: 100%;
 }
 
+
+.first {
+  background-color: red;
+  margin: 50px;
+}
+
 .container {
   display: flex;
 
