@@ -35,5 +35,7 @@ div {
   background-color: #FFEE00;
   width: 160px;
 }
-
+.nav li {
+display: inline;
+}
 
